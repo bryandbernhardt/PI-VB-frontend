@@ -6,7 +6,7 @@
 Front-end da aplicação Charming Fox, um projeto de e-commerce desenvolvido com Javascript Vanilla e Bootstrap para fins de estudo na faculdade de Análise e Desenvolvimento de Sistemas.
 
 ## Instalação
-instalar o gerenciador de pacotes [yarn](https://classic.yarnpkg.com/lang/en/docs/install/)
+1. Instalar o gerenciador de pacotes [yarn](https://classic.yarnpkg.com/lang/en/docs/install/)
 
 acessando a pasta raiz do projeto, dentro do terminal:
 ```bash
