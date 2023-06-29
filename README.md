@@ -7,14 +7,15 @@ Front-end da aplicação Charming Fox, um projeto de e-commerce desenvolvido com
 
 ## Instalação
 1. Instalar o gerenciador de pacotes [yarn](https://classic.yarnpkg.com/lang/en/docs/install/)
+2. Instalar todas as dependências com o Yarn:
 
 ```bash
 $ yarn install
 ```
 
 ## Executando o app
-1. Certifique-se que o [back-end](https://github.com/bryandbernhardt/PI-VB-backend/) está rodando
-
+1. Certifique-se que o [back-end](https://github.com/bryandbernhardt/PI-VB-backend/) está rodando.
+2. Rodar script de execução:
 ```bash
 $ yarn run start:dev
 ```
