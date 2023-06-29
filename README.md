@@ -6,13 +6,15 @@
 Front-end da aplicação Charming Fox, um projeto de e-commerce desenvolvido com Javascript Vanilla e Bootstrap para fins de estudo na faculdade de Análise e Desenvolvimento de Sistemas.
 
 ## Instalação
+instalar o gerenciador de pacotes [yarn](https://classic.yarnpkg.com/lang/en/docs/install/)
+
 ```bash
-$ npm install
+$ yarn install
 ```
 
 ## Executando o app
 1. Certifique-se que o [back-end](https://github.com/bryandbernhardt/PI-VB-backend/) está rodando
 
 ```bash
-$ npm run dev
+$ yarn run start:dev
 ```
