@@ -42,7 +42,7 @@ const getClient = async () => {
         <div class="card">
           <div class="card-body">
             <p class="productName">${product.name}</p>
-            <p class="prices">DE <span class="priceOld">R$${product.value.toFixed(2)}</span> | POR <span class="price">R$${product.value.toFixed(2)}</span></p>
+            <p class="prices">POR <span class="price">R$${product.value.toFixed(2)}</span></p>
           </div>
           <div class="card-img products-img" style="background-image: url('${product.image || './public/sem_foto.png'}')" alt="Imagem ${product.name}">
           </div>
@@ -142,7 +142,7 @@ const getAdmin = async () => {
         <div class="card">
           <div class="card-body">
             <p class="productName">${product.name}</p>
-            <p class="prices">DE <span class="priceOld">R$${product.value.toFixed(2)}</span> | POR <span class="price">R$${product.value.toFixed(2)}</span></p>
+            <p class="prices">POR <span class="price">R$${product.value.toFixed(2)}</span></p>
           </div>
           <div class="card-img products-img" style="background-image: url('${product.image || './public/sem_foto.png'}')" alt="Imagem ${product.name}">
           </div>
@@ -180,7 +180,7 @@ const getAdmin = async () => {
         <div class="card">
           <div class="card-body">
             <p class="productName">${product.name}</p>
-            <p class="prices">DE <span class="priceOld">R$${product.value.toFixed(2)}</span> | POR <span class="price">R$${product.value.toFixed(2)}</span></p>
+            <p class="prices">POR <span class="price">R$${product.value.toFixed(2)}</span></p>
           </div>
           <div class="card-img products-img" style="background-image: url('${product.image || './public/sem_foto.png'}')" alt="Imagem ${product.name}">
           </div>
